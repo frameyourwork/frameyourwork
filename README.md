@@ -1,66 +1,123 @@
-# Welcome!
+<div align="center">
 
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+# Hey, I'm Jordan 👋
+### Fullstack Developer · Design Engineer · Digital Creative
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+*I build things that look great and work even better.*
 
-![hey](https://github.com/frameyourwork/frameyourwork/blob/main/github.png?raw=true)
-  
-I'm Jordan, a Fullstack Web Developer, Design Engineer and a Digital Creative with a love for anything Tech. JavaScript is my first digital language, currently exploring the AI side of the web.
+[![Portfolio](https://img.shields.io/badge/Freelance-Open%20for%20Work-brightgreen?style=for-the-badge)](mailto:your@email.com)
+[![Blog](https://img.shields.io/badge/Blog-metanews.blog-blue?style=for-the-badge&logo=rss)](https://metanews.blog)
 
-# Here is a Blog project Built in ReactJS, See the articles I am currently reading. https://metanews.blog/
-![Tech-Blog](https://github.com/JDevdsn/JDevdsn/blob/master/Tech-Blog.png?raw=true)
+</div>
 
-# I plan to start creating more since some of you have reached out, here is another project for showcase. https://kodey.shop/
-![eCom-Builders](https://github.com/JDevdsn/JDevdsn/blob/master/eCom.png?raw=true)
+---
 
-# This is a custom card I developed for a realestate project, used to display property listings and book consultations. Can be used on all CMS platforms, is Compatible with JQuery, made for Wordpress & ACF, Advanced Custom Fields https://codepen.io/yurigami-the-encoder/pen/NWExOBo)
-![Property](https://github.com/JDevdsn/JDevdsn/blob/master/Property.png?raw=true)
+## 👨‍💻 About Me
 
-## MOOD:Motivated 
+I'm a Fullstack Web Developer based in the US with a passion for blending clean engineering with sharp design. I work across the full stack — from pixel-perfect React UIs to backend APIs to custom WordPress builds — and I'm currently deep in the AI side of the web.
 
-:purple_heart: Kind people are my kinda people
+- 🚀 **Freelancing full-time** and open to select full-time roles
+- 🌱 Currently exploring **AI-powered web experiences**
+- 🎨 I think great software should be beautiful *and* functional
+- 💬 JavaScript is my first language — React, Node, and WordPress are my daily drivers
 
-:100: God is Good 
+---
 
-:🚀: I'm know freelancing full time!
+## 🛠️ Tech Stack
 
-:apple: Adaptable mindset (** always open to learning thats growth🌱**)
+**Frontend**
 
-:sparkles: Child at heart (**Take me back to Disney World**)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Backend & CMS**
 
->*People think focus means saying yes to the thing you've got to focus on. It means saying no to the hundred other good ideas that there are. You have to pick carefully.*
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-</p>
+**Tools & Design**
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)
 
-## Latest Blog Posts Coming Soon📩
+---
+
+## 🚀 Featured Projects
+
+### 📰 MetaNews — Tech Blog Platform
+> A full-featured tech blog built in **ReactJS**, curating articles and staying current with the developer community.
+
+[![Live Site](https://img.shields.io/badge/Live-metanews.blog-blue?style=flat-square)](https://metanews.blog)
+
+**Stack:** React · JavaScript · CSS
+
+---
+
+### 🛒 Kodey Shop — eCommerce Showcase
+> A commerce-focused build demonstrating product UI, cart flows, and conversion-centered design.
+
+[![Live Site](https://img.shields.io/badge/Live-kodey.shop-orange?style=flat-square)](https://kodey.shop)
+
+**Stack:** JavaScript · CSS · eCommerce UI
+
+---
+
+### 🏠 Real Estate Listing Card — WordPress / ACF Component
+> A reusable property listing card built for WordPress + Advanced Custom Fields. Supports property display, consultation booking, jQuery-compatible, and CMS-agnostic.
+
+[![CodePen Demo](https://img.shields.io/badge/Demo-CodePen-black?style=flat-square&logo=codepen)](https://codepen.io/yurigami-the-encoder/pen/NWExOBo)
+
+**Stack:** WordPress · ACF · PHP · jQuery · CSS
+
+---
+
+## ✍️ Latest from the Blog
+
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
-- [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
-- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
-- [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
-- [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
+- [Don't Stop Until You're Proud](https://metanews.blog)
+- [Predictive Model: My First Tech Task](https://metanews.blog)
+- [A Rookie In Python But Loving It](https://metanews.blog)
+- [Difficulties In My Tech Journey: A Survival Guide](https://metanews.blog)
+- [The Ultimate Revelation of My Awesome Tech Transition Journey](https://metanews.blog)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frameyourwork&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frameyourwork&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm available for **freelance projects** and **open to full-time roles** where I can bring both strong engineering and design thinking to the team.
+
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourhandle)
+[![CodePen](https://img.shields.io/badge/CodePen-See%20My%20Work-black?style=for-the-badge&logo=codepen)](https://codepen.io/yurigami-the-encoder)
+
+---
+
+<div align="center">
+
+*"Focus means saying no to the hundred other good ideas. You have to pick carefully." — Steve Jobs*
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+</div>
